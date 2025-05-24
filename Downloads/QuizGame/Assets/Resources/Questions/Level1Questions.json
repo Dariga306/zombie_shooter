@@ -1,0 +1,57 @@
+[
+    {
+      "question": "Who is the leader of BTS?",
+      "options": ["Jin", "Suga", "RM", "Jungkook"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which group released the song 'Ddu-Du Ddu-Du'?",
+      "options": ["TWICE", "BLACKPINK", "ITZY", "Red Velvet"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of these idols is a member of EXO?",
+      "options": ["Taeyong", "Baekhyun", "Jimin", "J-Hope"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which girl group debuted with the song 'DALLA DALLA'?",
+      "options": ["NewJeans", "LE SSERAFIM", "ITZY", "IVE"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which boy group is known for the song 'MANIAC'?",
+      "options": ["Stray Kids", "ENHYPEN", "TXT", "ATEEZ"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which song is this audio clip from?",
+      "options": ["LOVE DIVE", "CHEER UP", "STAY", "Butter"],
+      "correctIndex": 3,
+      "audio": "butter_clip",
+      "hasMusic": true
+
+    },
+    {
+      "question": "Who is in this image?",
+      "options": ["Jisoo", "Nayeon", "IU", "Karina"],
+      "correctIndex": 0,
+      "image": "jisoo_pic"
+    },
+    {
+      "question": "Which K-pop artist performed at Coachella 2023?",
+      "options": ["IU", "BLACKPINK", "SEVENTEEN", "MAMAMOO"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which K-pop group has a fandom name 'MOA'?",
+      "options": ["TXT", "BTS", "NCT", "TREASURE"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What does 'Maknae' mean in K-pop?",
+      "options": ["Leader", "Visual", "Youngest member", "Main dancer"],
+      "correctIndex": 2
+    }
+  ]
+  

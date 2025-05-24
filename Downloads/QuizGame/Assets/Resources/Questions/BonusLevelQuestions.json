@@ -1,0 +1,27 @@
+[
+    {
+      "question": "Who is this idol?",
+      "options": ["Minju", "Wonyoung", "Karina", "Ningning"],
+      "correctIndex": 0,
+      "image": "minju"
+    },
+    {
+      "question": "Guess the idol from this photo:",
+      "options": ["Irene", "Jisoo", "Sana", "Joy"],
+      "correctIndex": 0,
+      "image": "irene"
+    },
+    {
+      "question": "Which idol is this?",
+      "options": ["Chaeryeong", "Ryujin", "Yuna", "Yeji"],
+      "correctIndex": 0,
+      "image": "chaeryeong"
+    },
+    {
+      "question": "Who is the member of BTS in the photo?",
+      "options": ["RM", "Jungkook", "Jin", "J-Hope"],
+      "correctIndex": 2,
+      "image": "jin"
+    }
+  ]
+  

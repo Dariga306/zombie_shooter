@@ -1,0 +1,66 @@
+[
+    {
+      "question": "BTS debuted in 2013.",
+      "options": ["True", "False"],
+      "correctIndex": 0,
+      "explanation": "BTS officially debuted on June 13, 2013 with the song 'No More Dream'."
+    },
+    {
+      "question": "BLACKPINK has 5 members.",
+      "options": ["True", "False"],
+      "correctIndex": 1,
+      "explanation": "BLACKPINK has 4 members: Jisoo, Jennie, Rosé, and Lisa."
+    },
+    {
+      "question": "This song is 'Dynamite' by BTS.",
+      "options": ["True", "False"],
+      "correctIndex": 0,
+      "audio": "dynamite_clip",
+      "explanation": "'Dynamite' is a 2020 hit single by BTS, fully performed in English."
+    },
+    {
+      "question": "TWICE's debut song was 'Fancy'.",
+      "options": ["True", "False"],
+      "correctIndex": 1,
+      "explanation": "TWICE debuted with 'Like OOH-AHH' in 2015. 'Fancy' was released later in 2019."
+    },
+    {
+      "question": "This song is 'Pink Venom' by BLACKPINK.",
+      "options": ["True", "False"],
+      "correctIndex": 1,
+      "audio": "pinkvenom_clip",
+      "explanation": "This clip is 'Love Dive' by IVE."
+    },
+    {
+      "question": "EXO is a co-ed group.",
+      "options": ["True", "False"],
+      "correctIndex": 1,
+      "explanation": "EXO is a male K-pop group formed by SM Entertainment."
+    },
+    {
+      "question": "IU is both a singer and actress.",
+      "options": ["True", "False"],
+      "correctIndex": 0,
+      "explanation": "IU is known for her successful music career and for starring in dramas."
+    },
+    {
+      "question": "Stray Kids are from YG Entertainment.",
+      "options": ["True", "False"],
+      "correctIndex": 1,
+      "explanation": "Stray Kids are under JYP Entertainment, not YG."
+    },
+    {
+      "question": "This audio is from 'Love Dive' by IVE.",
+      "options": ["True", "False"],
+      "correctIndex": 0,
+      "audio": "lovedive_clip",
+      "explanation": "'Love Dive' is a 2022 hit by the girl group IVE."
+    },
+    {
+      "question": "Jungkook is the oldest member of BTS.",
+      "options": ["True", "False"],
+      "correctIndex": 1,
+      "explanation": "Jungkook is the youngest member (maknae) of BTS."
+    }
+  ]
+  
